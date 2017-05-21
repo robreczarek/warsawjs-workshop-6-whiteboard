@@ -1,5 +1,8 @@
-/* CSS declarations go here */
+
 canvas {
   width: 70vw;
   height: 70vh;
+  border-width: 1px;
+  border-style: dotted;
+  background-color: #FFF;
 }
