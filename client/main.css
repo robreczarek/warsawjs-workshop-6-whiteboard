@@ -1,1 +1,5 @@
 /* CSS declarations go here */
+canvas {
+  width: 70vw;
+  height: 70vh;
+}
